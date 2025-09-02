@@ -57,7 +57,7 @@ const Index = () => {
           <div 
             className="absolute inset-0 bg-cover bg-center opacity-40"
             style={{
-              backgroundImage: 'url(/img/9bcf6aa3-e3b5-4e4a-a7c5-46424815c45c.jpg)'
+              backgroundImage: 'url(/img/6da97964-dbde-435a-9091-5be1b66787be.jpg)'
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-western-black via-transparent to-western-dark-brown/50" />
